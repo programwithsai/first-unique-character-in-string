@@ -4,5 +4,5 @@ I've provided two solutions to solve this coding problem. The first one uses a L
 
 Leetcode: https://leetcode.com/problems/first-unique-character-in-a-string/
 
-Explanation video
-https://www.youtube.com/watch?v=kdO32rX7Ryc
+
+[![Explanation](https://img.youtube.com/vi/kdO32rX7Ryc/0.jpg)](https://www.youtube.com/watch?v=kdO32rX7Ryc)
